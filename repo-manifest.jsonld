@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/netapp.cloudmanager/commit/250596d19eba4c5d90257c80a2eeb3f9b3072cb5",
       "git:hexsha": "250596d19eba4c5d90257c80a2eeb3f9b3072cb5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "21.24.0"
     },
     {
