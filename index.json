@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "netapp.cloudmanager",
+  "versions": [
+    {
+      "commit": "250596d19eba4c5d90257c80a2eeb3f9b3072cb5",
+      "tag": "21.24.0",
+      "parsed_at": "2026-11-07T17:37:23.445961+00:00"
+    }
+  ]
+}
